@@ -1,0 +1,8 @@
+git config --global user.name "shubham"
+git config --global user.email "shubhammorye3@gmail.com"
+git init
+{ this use for initialized of your project}
+
+git add . {ready to start to post in githun}
+
+git commit -m "Initial commit"  { used to move files from the staging area to a commit}

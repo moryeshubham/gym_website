@@ -1,0 +1,66 @@
+/* --------------member login form page ------------------ */
+
+section
+{
+	height: 670px;
+
+	width: 1361px;
+	background-color: grey;
+}
+
+
+.log_img
+{
+	height: 700px;
+	margin-top: 0px;
+	background-image: url("images/bg-2.jpg");
+    background-size: cover;
+}
+
+
+.box1
+{
+	height: 550px;
+	width: 450px;
+	background-color: #030002;
+	margin: 70px auto;
+	opacity: .6;
+	color: white;
+}
+
+form .login{
+margin: auto 70px;
+}
+
+form input{
+    height: 22px;
+    width: 300px;
+}
+
+
+/* ----------------------------------------Registration form css-------------------------------------------- */
+
+
+.reg_img
+{
+	height: 900px;
+	margin-top: 0px;
+	background-image: url("images/bg-3.jpg");
+    background-size: cover;
+}
+
+
+#sign_up_button
+{
+	margin-left: 120px;
+	color: black;
+}
+
+
+
+/*-------------------------------------------feedback from css----------------------------------------------*/
+
+#submit_fd
+{
+	color: black;
+}

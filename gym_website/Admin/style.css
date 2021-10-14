@@ -1,0 +1,92 @@
+/* index page css */
+
+
+header
+{
+	height: 80px;
+	width: 1360px;
+	background-color:rgb(20,20,20);
+	padding: 10px;
+}
+section
+{
+	height:700px;
+	width: 1361px;
+	background-color: grey;
+}
+
+
+
+.logo
+{
+	float :left;
+	padding-left: 20px;
+    ;
+}
+.logo img 
+{
+	padding-left: 30px;
+    height: 70px;
+    width: 120px
+}
+
+li a
+{
+	color: white;
+	text-decoration: none;
+}
+nav
+{
+	float: right;
+	word-spacing: 30px;
+	padding: 10px;
+}
+nav li 
+{
+	display: inline-block;
+	line-height: 50px;
+}
+
+section .sec_img
+{
+	height: 700px;
+	margin-top: 0px;
+	background-image: url("images/bg_1.jpg");
+    background-size: cover;
+}
+.box
+{
+	height: 400px;
+	width: 450px;
+	background-color: #030002;
+	margin: 70px auto;
+	opacity: .6;
+	color: white;
+}
+/*
+footer
+{
+	height:130px;
+	width: 1361px;
+	background-color: black;
+	
+}*/
+
+
+.line_1{
+	height: 8px;
+	background-color:black;
+	width:100%;	
+
+  }
+
+
+
+
+
+
+
+
+
+
+
